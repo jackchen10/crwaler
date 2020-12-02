@@ -1,4 +1,3 @@
 # crwaler
-## 爬取软科页面select下拉框中的所有option，返回列表，这个可以作为通用的方法
-## 用selenium + ChromeDriver分析xpath实现
-## 在Python3.6 + PyCharm2018下测试通过
+## 分享自己摸索中写的一些Demo，积累
+## 程序均在Python3.6+版本测试通过
